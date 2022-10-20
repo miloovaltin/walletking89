@@ -1,16 +1,16 @@
 {
-"name": "walletking89",
-"theme": "wallet king89",
-"version": "8.10.5",
-"description": "wallet king89 ทางเข้าเว็บไซต์สล็อตเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
-"keywords": [
-"wallet king89",
-"wallet king89 เครดิตฟรี",
-"wallet king89 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/walletking89",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "walletking89",
+  "theme": "wallet king89",
+  "version": "8.11.0",
+  "description": "wallet king89 ทางเข้าเว็บไซต์สล็อตเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
+  "keywords": [
+    "wallet king89",
+    "wallet king89 เครดิตฟรี",
+    "wallet king89 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/walletking89",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
